@@ -4,7 +4,7 @@ There are 2 types of for loop
 for <variable> in <sequence>:
     #block of statements
     
-for <variable> in range(start, end, step):
+for <index> in range(start, end, step):
     #block of statements
 
 """

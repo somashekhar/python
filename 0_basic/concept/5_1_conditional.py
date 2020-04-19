@@ -10,3 +10,8 @@ elif condition_var > 5:
     print("Inside the elif loop suite")
 else:
     print("Inside the else loop suite")
+
+    
+'''
+Python does not support switch statement
+'''

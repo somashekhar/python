@@ -1,3 +1,9 @@
+'''
+There are 2 types of looping constructs in python:
+  1. while (when count not known)
+  2. for
+'''
+
 """
 There are 2 types of for loop
 
@@ -16,3 +22,9 @@ for number in foo_bar:
      
 for index in range(0, len(foo_bar))
     print(foo_bar[index])
+
+'''
+while <condition>:
+  statements_of_while
+statements_outside_while
+'''
